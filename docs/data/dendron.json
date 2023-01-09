@@ -127,8 +127,8 @@
     "enableTaskNotes": true,
     "enablePrettyLinks": true,
     "searchMode": "search",
-    "siteUrl": "https://mb-docs.github.io",
-    "assetsPrefix": "/mb-docs.github.io",
+    "siteUrl": "https://mb-weberon.github.io",
+    "assetsPrefix": "/mb-docs",
     "siteFaviconPath": "favicon.ico",
     "siteIndex": "root"
   }
