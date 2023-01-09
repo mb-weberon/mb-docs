@@ -128,6 +128,7 @@
     "enablePrettyLinks": true,
     "searchMode": "search",
     "siteUrl": "https://mb-docs.github.io",
+    "assetsPrefix": "/mb-docs.github.io",
     "siteFaviconPath": "favicon.ico",
     "siteIndex": "root"
   }
