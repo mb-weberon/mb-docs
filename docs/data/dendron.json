@@ -127,7 +127,7 @@
     "enableTaskNotes": true,
     "enablePrettyLinks": true,
     "searchMode": "search",
-    "siteUrl": "localhost:3000",
+    "siteUrl": "https://mb-docs.github.io",
     "siteFaviconPath": "favicon.ico",
     "siteIndex": "root"
   }
